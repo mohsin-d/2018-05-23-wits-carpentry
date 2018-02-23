@@ -1,11 +1,11 @@
 ---
 layout: workshop      # DON'T CHANGE THIS.
 carpentry: "dc"    # what kind of Carpentry (must be either "lc" or "dc" or "swc")
-venue: "Univeristy of the Witwatersrand"        # brief name of host site without address (e.g., "Euphoric State University")
+venue: "University of the Witwatersrand"        # brief name of host site without address (e.g., "Euphoric State University")
 address: "MSL111, Enoch Sontonga Road, Braamfontein"      # full street address of workshop (e.g., "Room A, 123 Forth Street, Blimingen, Euphoria")
 country: "za"      # lowercase two-letter ISO country code such as "fr" (see https://en.wikipedia.org/wiki/ISO_3166-1)
 language: "en"     # lowercase two-letter ISO language code such as "fr" (see https://en.wikipedia.org/wiki/ISO_639-1)
-latlng: "28.0259107,-26.1901662"       # decimal latitude and longitude of workshop venue (e.g., "41.7901128,-87.6007318" - use http://www.latlong.net/)
+latlng: "https://www.google.com/maps/place/Mathematical+Sciences+Building/@-26.1901662,28.0259107,8m/data=!3m1!1e3!4m5!3m4!1s0x1e950c0f6a2900bb:0x5f0efcdd3b0d0c18!8m2!3d-26.190101!4d28.0264892?dcr=0"       # decimal latitude and longitude of workshop venue (e.g., "41.7901128,-87.6007318" - use http://www.latlong.net/)
 humandate: "May 23-25, 2018"    # human-readable dates for the workshop (e.g., "Feb 17-18, 2020")
 humantime: "9:00am - 4:30pm"    # human-readable times for the workshop (e.g., "9:00 am - 4:30 pm")
 startdate: 2018-05-23      # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
